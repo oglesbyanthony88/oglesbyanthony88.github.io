@@ -62,11 +62,11 @@ These are the steps I followed:
 5. Now we can open our editor from  the directory we are already in by `atom .` If you use another editor use that editors specified command. For example Sublime uses `subl` and VS Code uses `code`
 6. On PhaserJS's [guide](https://phaser.io/tutorials/getting-started-phaser3/part5) There is html code they want you to copy and paste into the html file you just created. So... do it.
 7. Now back in your terminal, make sure you are in you PhaserJS_stuff folder (or whatever you decided to name it) and type `http-server`.
-8. You should get something like this:
-9. Now if you open your web browser and go to `http://localhost:8080/` you should see:
+8. You should get something like this: ![image](../assets/images/PhaserJS.png)
+9. Now if you open your web browser and go to `http://localhost:8080/` you should see:![image](../assets/images/phaserterminal.png)
 
 There you go. That's pretty rad.
 
-Now that We have PhaserJS up and running on our machine we can start actually learning how to use this crazy framework. I suggest if you dont know Vanilla Javascript already that you try your hand at it first. Learn some foundational stuff before getting into frameworks.
+Now that We have PhaserJS up and running on our machine we can start actually learning how to use this crazy framework. I suggest if you don't know Vanilla Javascript already that you try your hand at it first. Learn some foundational stuff before getting into frameworks.
 
 That concludes my Day Zero. We got pretty much every thing we need to start learning PhaserJS. Looking forward to future projects.
