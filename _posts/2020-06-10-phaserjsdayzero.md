@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introduction
+title: PhaserJS Day Zero
 author: Anthony Oglesby
 date: 2020-06-10 13:36:51 -0400
 ---
@@ -14,7 +14,7 @@ date: 2020-06-10 13:36:51 -0400
 - I am going to be pretty much using this as a journal of sorts to document my journey learning PhaserJS. This is for two reasons.
 	1. This will serve as my reference guide to everything I have learned and act as my notes, thoughts, etc.
 	2. This may give insight into anyone else in the universe possibly wanting to get into learning PhaserJS. They above is true for me, however it can be true for someone else as well.
-	
+
 **Day 1**
 
 Of course the best way to learn any tech stack / framework is to go to the [source](https://phaser.io/tutorials/getting-started-phaser3).
@@ -39,7 +39,7 @@ That's it for installation.
 
 The next step is our editor. If you are like me and already have an editor then we can skip this step. If you don't have an editor I recommend [Atom](https://atom.io/) and [VS code](https://code.visualstudio.com/). They are both editors that you can easily learn to use and continue learning as you get more advanced **AND THEY ARE FREE**. I personally use Atom, because I love supporting free, open source, community driven software.
 
-Now its time to set up ***PhaserJS***. 
+Now its time to set up ***PhaserJS***.
 
 Who's excited?!?!
 
@@ -63,7 +63,7 @@ These are the steps I followed:
 6. On PhaserJS's [guide](https://phaser.io/tutorials/getting-started-phaser3/part5) There is html code they want you to copy and paste into the html file you just created. So... do it.
 7. Now back in your terminal, make sure you are in you PhaserJS_stuff folder (or whatever you decided to name it) and type `http-server`.
 8. You should get something like this:
-9. Now if you open your web browser and go to `http://localhost:8080/` you should see: 
+9. Now if you open your web browser and go to `http://localhost:8080/` you should see:
 
 There you go. That's pretty rad.
 
