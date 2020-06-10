@@ -1,0 +1,101 @@
+.current {
+  color: green;
+}
+
+a.nav {
+  font: bold 11px;
+  text-decoration: none;
+  background-color: #EEEEEE;
+  color: #333333;
+  padding: 2px 6px 2px 6px;
+  border-radius: 6px;
+  border-top: 1px solid #CCCCCC;
+  border-right: 1px solid #333333;
+  border-bottom: 1px solid #333333;
+  border-left: 1px solid #CCCCCC;
+}
+
+.header {
+  border: 5px solid gray;
+  border-radius: 5px;
+  padding: 10px;
+  text-align: center;
+}
+
+.employment {
+  width: 320px;
+  height: 320px;
+  overflow: auto;
+  padding: 10px;
+  border: 5px solid #ed544a;
+  border-radius: 5px;
+  float: left;
+}
+
+.volunteer {
+  width: 320px;
+  height: 320px;
+  overflow: auto;
+  padding: 10px;
+  border: 5px solid #4aed7b;
+  border-radius: 5px;
+  float: left;
+}
+
+.certifications {
+  width: 320px;
+  height: 320px;
+  overflow: auto;
+  padding: 10px;
+  border: 5px solid #4ab9ed;
+  border-radius: 5px;
+  float: left;
+}
+
+.tskills {
+  width: 320px;
+  height: 320px;
+  overflow: auto;
+  padding: 10px;
+  border: 5px solid #edb74a;
+  border-radius: 5px;
+  float: left;
+}
+
+.pskills {
+  width: 320px;
+  height: 320px;
+  overflow: auto;
+  padding: 10px;
+  border: 5px solid #a4ed4a;
+  border-radius: 5px;
+  float: left;
+}
+
+.tskills {
+  width: 320px;
+  height: 320px;
+  overflow: auto;
+  padding: 10px;
+  border: 5px solid #4aeda4;
+  border-radius: 5px;
+}
+
+.projects {
+  width: 320px;
+  height: 320px;
+  overflow: auto;
+  padding: 10px;
+  border: 5px solid #ac4aed;
+  border-radius: 5px;
+  float: left;
+}
+
+.education {
+  width: 320px;
+  height: 320px;
+  overflow: auto;
+  padding: 10px;
+  border: 5px solid #ed5d4a;
+  border-radius: 5px;
+}
