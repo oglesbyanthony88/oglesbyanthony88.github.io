@@ -1,5 +1,5 @@
-.current {
-  color: green;
+body {
+  background-color: #d9d9d9;
 }
 
 a.nav {
@@ -98,4 +98,17 @@ a.nav {
   padding: 10px;
   border: 5px solid #ed5d4a;
   border-radius: 5px;
+}
+.posts a {
+  color: #32a852
+}
+
+.posts {
+  width: 320px;
+  text-align: center;
+  margin: auto;
+  border-radius: 5px;
+  box-shadow: 0 6px 10px 0 #999999;
+  background-color: #9e9e9e;
+  transition: 0.3s;
 }
