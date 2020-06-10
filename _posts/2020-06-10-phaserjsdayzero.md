@@ -62,8 +62,8 @@ These are the steps I followed:
 5. Now we can open our editor from  the directory we are already in by `atom .` If you use another editor use that editors specified command. For example Sublime uses `subl` and VS Code uses `code`
 6. On PhaserJS's [guide](https://phaser.io/tutorials/getting-started-phaser3/part5) There is html code they want you to copy and paste into the html file you just created. So... do it.
 7. Now back in your terminal, make sure you are in you PhaserJS_stuff folder (or whatever you decided to name it) and type `http-server`.
-8. You should get something like this: ![image](../assets/images/PhaserJS.png)
-9. Now if you open your web browser and go to `http://localhost:8080/` you should see:![image](../assets/images/phaserterminal.png)
+8. You should get something like this: <br><img src="/assets/images/phaserterminal.png" width="400px">
+9. Now if you open your web browser and go to `http://localhost:8080/` you should see:<br><img src="/assets/images/PhaserJS.png" width="400px">
 
 There you go. That's pretty rad.
 
