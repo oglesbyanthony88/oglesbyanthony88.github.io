@@ -2,7 +2,7 @@
 layout: post
 title: Basic Bitwise Operations
 author: Anthony Oglesby
-date: 2020-06-15 11:07:51 -0400
+date: 2020-06-22 11:07:51 -0400
 ---
 
 # Basic Bitwise Operations
