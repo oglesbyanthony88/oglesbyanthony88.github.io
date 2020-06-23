@@ -3,68 +3,74 @@ body {
   background-color: #d9d9d9;
 }
 
+// Resume Page
+
+.resumewrapper {
+  display: grid;
+  grid-template-columns: 200px 200px 200px;
+  grid-template-rows: 200px 200px 200px;
+}
+
 .header {
+  grid-column-start: 1;
+  grid-column-end: 8;
+  grid-row-start: 1;
+  grid-row-end: 3;
   border: 5px solid gray;
   border-radius: 5px;
   padding: 10px;
   text-align: center;
 }
 
-// Resume Page
-
 .employment {
-  width: 320px;
-  height: 320px;
+  grid-column-start: 1;
+  grid-column-end: 4;
   overflow: auto;
   padding: 10px;
   border: 5px solid #ed544a;
   border-radius: 5px;
-  float: left;
+
 }
 
 .volunteer {
-  width: 320px;
-  height: 320px;
+  grid-column-start: 4;
+  grid-column-end: 8;
   overflow: auto;
   padding: 10px;
   border: 5px solid #4aed7b;
   border-radius: 5px;
-  float: left;
 }
 
 .certifications {
-  width: 320px;
-  height: 320px;
+  grid-column-start: 1;
+  grid-column-end: 4;
   overflow: auto;
   padding: 10px;
   border: 5px solid #4ab9ed;
   border-radius: 5px;
-  float: left;
 }
 
 .tskills {
-  width: 320px;
-  height: 320px;
+  grid-column-start: 4;
+  grid-column-end: 8;
   overflow: auto;
   padding: 10px;
   border: 5px solid #edb74a;
   border-radius: 5px;
-  float: left;
 }
 
 .pskills {
-  width: 320px;
-  height: 320px;
+  grid-column-start: 1;
+  grid-column-end: 4;
   overflow: auto;
   padding: 10px;
   border: 5px solid #a4ed4a;
   border-radius: 5px;
-  float: left;
 }
 
 .tskills {
-  width: 320px;
-  height: 320px;
+  grid-column-start: 4;
+  grid-column-end: 8;
   overflow: auto;
   padding: 10px;
   border: 5px solid #4aeda4;
@@ -72,22 +78,20 @@ body {
 }
 
 .projects {
-  width: 320px;
-  height: 320px;
+  grid-column-start: 1;
+  grid-column-end: 4;
   overflow: auto;
   padding: 10px;
   border: 5px solid #ac4aed;
   border-radius: 5px;
-  float: left;
 }
 
 .education {
-  width: 320px;
-  height: 320px;
+  grid-column-start: 4;
+  grid-column-end: 8;
   overflow: auto;
   padding: 10px;
   border: 5px solid #ed5d4a;
-  border-radius: 5px;
 }
 
 // Posts Page (Blog.html)
