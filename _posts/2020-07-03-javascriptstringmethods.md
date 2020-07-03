@@ -2,7 +2,7 @@
 layout: post
 title: Javascript String Mehtods
 author: Anthony Oglesby
-date: 2020-07-03 11:07:51 -0400
+date: 2020-07-03 09:07:51 -0400
 ---
 
 # Javascript String Methods
